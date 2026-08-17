@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
