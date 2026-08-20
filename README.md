@@ -30,14 +30,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## String
 |  |
 | ------- |
