@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0819-most-common-word](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1386-cinema-seat-allocation](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1980-find-unique-binary-string](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
