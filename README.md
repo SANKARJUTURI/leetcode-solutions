@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1980-find-unique-binary-string](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2418-sort-the-people](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1386-cinema-seat-allocation](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2418-sort-the-people](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1927-sum-game](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2418-sort-the-people](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Sorting
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
