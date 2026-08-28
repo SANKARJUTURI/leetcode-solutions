@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1046-last-stone-weight](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1386-cinema-seat-allocation](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1386-cinema-seat-allocation](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -125,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1046-last-stone-weight) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
