@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1927-sum-game](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1137-n-th-tribonacci-number](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
