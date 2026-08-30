@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1046-last-stone-weight](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
