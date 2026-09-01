@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Simulation
 |  |
 | ------- |
@@ -165,4 +167,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0542-01-matrix) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
