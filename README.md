@@ -44,17 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## String
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
