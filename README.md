@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0819-most-common-word](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1927-sum-game](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1927-sum-game) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0542-01-matrix) |
 | [1137-n-th-tribonacci-number](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
