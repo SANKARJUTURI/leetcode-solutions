@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0819-most-common-word](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1386-cinema-seat-allocation](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -50,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## String
 |  |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,10 +193,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
