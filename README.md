@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0940-distinct-subsequences-ii](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -208,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
