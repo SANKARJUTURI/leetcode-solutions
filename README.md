@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1980-find-unique-binary-string](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1980-find-unique-binary-string](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2418-sort-the-people](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
 |  |
