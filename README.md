@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2418-sort-the-people](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3524-find-x-value-of-array-i](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -257,4 +259,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
