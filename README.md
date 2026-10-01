@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1096-brace-expansion-ii](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
