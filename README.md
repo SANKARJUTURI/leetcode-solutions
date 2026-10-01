@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
