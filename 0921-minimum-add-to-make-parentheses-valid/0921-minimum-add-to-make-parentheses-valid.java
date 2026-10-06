@@ -3,16 +3,16 @@ class Solution
     public int minAddToMakeValid(String s) 
     {
         int res=0;
-        Stack<Character>S=new Stack<>();
+        int open=0;
         for(char ch:s.toCharArray())
         {
-            if(ch=='(')S.push(ch);
+            if(ch=='(')open++;
             else
             {
-                if(S.isEmpty())res++;
-                else S.pop();
+                if(open==0)res++;
+                else open--;
             }
         }
-        return res+S.size();
+        return res+open;
     }
 }
