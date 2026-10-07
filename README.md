@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0819-most-common-word) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1980-find-unique-binary-string](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 ## Graph Theory
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/SANKARJUTURI/leetcode-solutions/tree/master/0542-01-matrix) |
